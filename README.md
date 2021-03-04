@@ -33,7 +33,7 @@ There are five types of Critic marks:
 * Deletion `{-- --}`
 * Substitution `{~~ ~> ~~}`
 * Comment `{>> <<}`
-* Highlight `{== ==}{>> <<}`
+* Highlight `{== ==}`
 
 Using these five basic marks you can successfully copy edit in plain text.
 
